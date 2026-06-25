@@ -1,0 +1,122 @@
+[
+  {
+    "telefono": "2235425164",
+    "nombre": "Felipe Rodríguez",
+    "dni": "21931131",
+    "email": "felipe@gmail.com",
+    "vehiculos": ["AB786RG"],
+    "activo": true
+  },
+  {
+    "telefono": "2236661122",
+    "nombre": "Carlos Pérez",
+    "dni": "18555666",
+    "email": "carlos@gmail.com",
+    "vehiculos": ["IJ789EF"],
+    "activo": false
+  },
+  {
+    "telefono": "2230001122",
+    "nombre": "Nicolás Díaz",
+    "dni": "22999000",
+    "email": "nico@gmail.com",
+    "vehiculos": ["QR901MN"],
+    "activo": true
+  },
+  {
+    "telefono": "2236667788",
+    "nombre": "Rodrigo Vega",
+    "dni": "20555666",
+    "email": "rodri@gmail.com",
+    "vehiculos": ["CD789YZ"],
+    "activo": true
+  },
+  {
+    "telefono": "2233334455",
+    "nombre": "Florencia Castro",
+    "dni": "41222333",
+    "email": "flor@gmail.com",
+    "vehiculos": ["WX890ST"],
+    "activo": true
+  },
+  {
+    "telefono": "2235556677",
+    "nombre": "Julieta Álvarez",
+    "dni": "37444555",
+    "email": "juli@gmail.com",
+    "vehiculos": ["AB456WX"],
+    "activo": true
+  },
+  {
+    "telefono": "2238885566",
+    "nombre": "Diego Fernández",
+    "dni": "27777888",
+    "email": "diego@gmail.com",
+    "vehiculos": ["MN345IJ"],
+    "activo": true
+  },
+  {
+    "telefono": "2235557788",
+    "nombre": "Valentina Torres",
+    "dni": "38444555",
+    "email": "vale@gmail.com",
+    "vehiculos": ["GH456CD"],
+    "activo": true
+  },
+  {
+    "telefono": "2232223344",
+    "nombre": "Pablo Ruiz",
+    "dni": "29111222",
+    "email": "pablo@gmail.com",
+    "vehiculos": ["UV567QR"],
+    "activo": false
+  },
+  {
+    "telefono": "2234561234",
+    "nombre": "Lucía Gómez",
+    "dni": "30222333",
+    "email": "lucia@gmail.com",
+    "vehiculos": ["DC432HJ"],
+    "activo": true
+  },
+  {
+    "telefono": "2234445566",
+    "nombre": "Tomás Romero",
+    "dni": "24333444",
+    "email": "tomas@gmail.com",
+    "vehiculos": ["YZ123UV"],
+    "activo": true
+  },
+  {
+    "telefono": "2231112233",
+    "nombre": "Ana Martínez",
+    "dni": "36000111",
+    "email": "ana@gmail.com",
+    "vehiculos": ["ST234OP"],
+    "activo": true
+  },
+  {
+    "telefono": "2231239876",
+    "nombre": "Martín Sosa",
+    "dni": "25333444",
+    "email": "martin@gmail.com",
+    "vehiculos": ["EF123AB"],
+    "activo": true
+  },
+  {
+    "telefono": "2239997788",
+    "nombre": "Camila López",
+    "dni": "33888999",
+    "email": "camila@gmail.com",
+    "vehiculos": ["OP678KL"],
+    "activo": true
+  },
+  {
+    "telefono": "2237773344",
+    "nombre": "Sofía Herrera",
+    "dni": "40666777",
+    "email": "sofia@gmail.com",
+    "vehiculos": ["KL012GH"],
+    "activo": true
+  }
+]

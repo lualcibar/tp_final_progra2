@@ -1,0 +1,107 @@
+[
+  {
+    "marca": "Chevrolet",
+    "dniDueno": "29111222",
+    "modelo": "Cruze",
+    "anio": 2022,
+    "patente": "UV567QR"
+  },
+  {
+    "marca": "Nissan",
+    "dniDueno": "22999000",
+    "modelo": "Sentra",
+    "anio": 2015,
+    "patente": "QR901MN"
+  },
+  {
+    "marca": "Chevrolet",
+    "dniDueno": "30222333",
+    "modelo": "Corsa",
+    "anio": 2010,
+    "patente": "DC432HJ"
+  },
+  {
+    "marca": "Ford",
+    "dniDueno": "36000111",
+    "modelo": "Focus",
+    "anio": 2013,
+    "patente": "ST234OP"
+  },
+  {
+    "marca": "Peugeot",
+    "dniDueno": "40666777",
+    "modelo": "208",
+    "anio": 2019,
+    "patente": "KL012GH"
+  },
+  {
+    "marca": "Fiat",
+    "dniDueno": "27777888",
+    "modelo": "Cronos",
+    "anio": 2021,
+    "patente": "MN345IJ"
+  },
+  {
+    "marca": "Peugeot",
+    "dniDueno": "20555666",
+    "modelo": "301",
+    "anio": 2016,
+    "patente": "CD789YZ"
+  },
+  {
+    "marca": "Honda",
+    "dniDueno": "33888999",
+    "modelo": "Civic",
+    "anio": 2017,
+    "patente": "OP678KL"
+  },
+  {
+    "marca": "Toyota",
+    "dniDueno": "18555666",
+    "modelo": "Corolla",
+    "anio": 2020,
+    "patente": "IJ789EF"
+  },
+  {
+    "marca": "Volkswagen",
+    "dniDueno": "41222333",
+    "modelo": "Polo",
+    "anio": 2020,
+    "patente": "WX890ST"
+  },
+  {
+    "marca": "Renault",
+    "dniDueno": "38444555",
+    "modelo": "Sandero",
+    "anio": 2016,
+    "patente": "GH456CD"
+  },
+  {
+    "marca": "Volkswagen",
+    "dniDueno": "25333444",
+    "modelo": "Gol",
+    "anio": 2018,
+    "patente": "EF123AB"
+  },
+  {
+    "marca": "Renault",
+    "dniDueno": "24333444",
+    "modelo": "Logan",
+    "anio": 2012,
+    "patente": "YZ123UV"
+  },
+  {
+    "marca": "Ford",
+    "dniDueno": "21931131",
+    "modelo": "Palio",
+    "anio": 2014,
+    "patente": "AB786RG"
+  },
+  {
+    "marca": "Toyota",
+    "dniDueno": "37444555",
+    "modelo": "Yaris",
+    "anio": 2023,
+    "patente": "AB456WX"
+  }
+]

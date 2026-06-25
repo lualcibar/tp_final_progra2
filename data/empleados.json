@@ -1,0 +1,122 @@
+[
+  {
+    "salario": 195000,
+    "telefono": "2231234560",
+    "cargo": "ADMINISTRADOR",
+    "nombre": "Alejandro Gil",
+    "dni": "21123456",
+    "email": "alejandro@taller.com"
+  },
+  {
+    "salario": 150000,
+    "telefono": "2235425164",
+    "cargo": "MECANICO",
+    "nombre": "Lucía Alcibar",
+    "dni": "47832917",
+    "email": "lucia@taller.com"
+  },
+  {
+    "salario": 147000,
+    "telefono": "2234567800",
+    "cargo": "MECANICO",
+    "nombre": "Cecilia Ibáñez",
+    "dni": "44456789",
+    "email": "ceci@taller.com"
+  },
+  {
+    "salario": 118000,
+    "telefono": "2235678901",
+    "cargo": "RECEPCIONISTA",
+    "nombre": "Gustavo Blanco",
+    "dni": "23567890",
+    "email": "gustavo@taller.com"
+  },
+  {
+    "salario": 152000,
+    "telefono": "2237890123",
+    "cargo": "MECANICO",
+    "nombre": "Fernando Mora",
+    "dni": "26789012",
+    "email": "fernando@taller.com"
+  },
+  {
+    "salario": 160000,
+    "telefono": "2236789012",
+    "cargo": "MECANICO",
+    "nombre": "Natalia Reyes",
+    "dni": "39678901",
+    "email": "natalia@taller.com"
+  },
+  {
+    "salario": 153000,
+    "telefono": "2230123456",
+    "cargo": "MECANICO",
+    "nombre": "Silvina Ponce",
+    "dni": "43012345",
+    "email": "silvina@taller.com"
+  },
+  {
+    "salario": 145000,
+    "telefono": "2239012345",
+    "cargo": "MECANICO",
+    "nombre": "Hernán Ortiz",
+    "dni": "17901234",
+    "email": "hernan@taller.com"
+  },
+  {
+    "salario": 148000,
+    "telefono": "2234567890",
+    "cargo": "MECANICO",
+    "nombre": "Paula Ríos",
+    "dni": "32456789",
+    "email": "paula@taller.com"
+  },
+  {
+    "salario": 155000,
+    "telefono": "2233456789",
+    "cargo": "MECANICO",
+    "nombre": "Jorge Medina",
+    "dni": "19345678",
+    "email": "jorge@taller.com"
+  },
+  {
+    "salario": 122000,
+    "telefono": "2238901234",
+    "cargo": "RECEPCIONISTA",
+    "nombre": "Claudia Vargas",
+    "dni": "31890123",
+    "email": "claudia@taller.com"
+  },
+  {
+    "salario": 120000,
+    "telefono": "2232345678",
+    "cargo": "RECEPCIONISTA",
+    "nombre": "Marina Suárez",
+    "dni": "28234567",
+    "email": "marina@taller.com"
+  },
+  {
+    "salario": 119000,
+    "telefono": "2232345670",
+    "cargo": "RECEPCIONISTA",
+    "nombre": "Beatriz Cabrera",
+    "dni": "35234567",
+    "email": "beatriz@taller.com"
+  },
+  {
+    "salario": 158000,
+    "telefono": "2233456780",
+    "cargo": "MECANICO",
+    "nombre": "Maximiliano Luna",
+    "dni": "28345678",
+    "email": "maxi@taller.com"
+  },
+  {
+    "salario": 200000,
+    "telefono": "2231234567",
+    "cargo": "ADMINISTRADOR",
+    "nombre": "Roberto Sánchez",
+    "dni": "15123456",
+    "email": "roberto@taller.com"
+  }
+]

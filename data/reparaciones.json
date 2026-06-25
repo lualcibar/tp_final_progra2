@@ -1,0 +1,152 @@
+[
+  {
+    "descripcion": "Cambio de embrague",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "AB786RG",
+    "costo": 85000,
+    "fechaInicio": "2026-05-10",
+    "id": 1,
+    "dniMecanico": "47832917",
+    "fechaFin": "2026-05-12"
+  },
+  {
+    "descripcion": "Reparación de frenos",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "DC432HJ",
+    "costo": 45000,
+    "fechaInicio": "2026-05-15",
+    "id": 2,
+    "dniMecanico": "19345678",
+    "fechaFin": "2026-05-15"
+  },
+  {
+    "descripcion": "Cambio de aceite y filtros",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "EF123AB",
+    "costo": 22000,
+    "fechaInicio": "2026-05-20",
+    "id": 3,
+    "dniMecanico": "32456789",
+    "fechaFin": "2026-05-20"
+  },
+  {
+    "descripcion": "Reparación de suspensión",
+    "estado": "EN_CURSO",
+    "patenteVehiculo": "GH456CD",
+    "costo": 120000,
+    "fechaInicio": "2026-06-01",
+    "id": 4,
+    "dniMecanico": "47832917",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Cambio de correa de distribución",
+    "estado": "EN_CURSO",
+    "patenteVehiculo": "KL012GH",
+    "costo": 95000,
+    "fechaInicio": "2026-06-10",
+    "id": 5,
+    "dniMecanico": "39678901",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Reparación eléctrica",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "MN345IJ",
+    "costo": 60000,
+    "fechaInicio": "2026-05-25",
+    "id": 6,
+    "dniMecanico": "26789012",
+    "fechaFin": "2026-05-27"
+  },
+  {
+    "descripcion": "Cambio de pastillas de freno",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "OP678KL",
+    "costo": 35000,
+    "fechaInicio": "2026-06-05",
+    "id": 7,
+    "dniMecanico": "19345678",
+    "fechaFin": "2026-06-05"
+  },
+  {
+    "descripcion": "Reparación de caja de cambios",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "QR901MN",
+    "costo": 200000,
+    "fechaInicio": "",
+    "id": 8,
+    "dniMecanico": "47832917",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Alineación y balanceo",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "ST234OP",
+    "costo": 18000,
+    "fechaInicio": "2026-06-12",
+    "id": 9,
+    "dniMecanico": "32456789",
+    "fechaFin": "2026-06-12"
+  },
+  {
+    "descripcion": "Cambio de batería",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "WX890ST",
+    "costo": 55000,
+    "fechaInicio": "2026-06-15",
+    "id": 10,
+    "dniMecanico": "39678901",
+    "fechaFin": "2026-06-15"
+  },
+  {
+    "descripcion": "Reparación de radiador",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "YZ123UV",
+    "costo": 75000,
+    "fechaInicio": "",
+    "id": 11,
+    "dniMecanico": "26789012",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Cambio de amortiguadores",
+    "estado": "EN_CURSO",
+    "patenteVehiculo": "AB456WX",
+    "costo": 110000,
+    "fechaInicio": "2026-06-20",
+    "id": 12,
+    "dniMecanico": "19345678",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Diagnóstico general",
+    "estado": "FINALIZADA",
+    "patenteVehiculo": "CD789YZ",
+    "costo": 15000,
+    "fechaInicio": "2026-06-18",
+    "id": 13,
+    "dniMecanico": "47832917",
+    "fechaFin": "2026-06-18"
+  },
+  {
+    "descripcion": "Cambio de bujías",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "DC432HJ",
+    "costo": 28000,
+    "fechaInicio": "",
+    "id": 14,
+    "dniMecanico": "32456789",
+    "fechaFin": ""
+  },
+  {
+    "descripcion": "Reparación de escape",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "AB786RG",
+    "costo": 42000,
+    "fechaInicio": "",
+    "id": 15,
+    "dniMecanico": "39678901",
+    "fechaFin": ""
+  }
+]

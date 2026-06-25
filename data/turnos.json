@@ -1,0 +1,107 @@
+[
+  {
+    "fecha": "2026-06-25",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "AB786RG",
+    "id": 1,
+    "dniMecanico": "47832917"
+  },
+  {
+    "fecha": "2026-06-26",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "DC432HJ",
+    "id": 2,
+    "dniMecanico": "19345678"
+  },
+  {
+    "fecha": "2026-06-27",
+    "estado": "ATENDIDO",
+    "patenteVehiculo": "EF123AB",
+    "id": 3,
+    "dniMecanico": "32456789"
+  },
+  {
+    "fecha": "2026-06-28",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "GH456CD",
+    "id": 4,
+    "dniMecanico": "47832917"
+  },
+  {
+    "fecha": "2026-06-30",
+    "estado": "CANCELADO",
+    "patenteVehiculo": "IJ789EF",
+    "id": 5,
+    "dniMecanico": "39678901"
+  },
+  {
+    "fecha": "2026-07-01",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "KL012GH",
+    "id": 6,
+    "dniMecanico": "19345678"
+  },
+  {
+    "fecha": "2026-07-02",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "MN345IJ",
+    "id": 7,
+    "dniMecanico": "26789012"
+  },
+  {
+    "fecha": "2026-07-03",
+    "estado": "ATENDIDO",
+    "patenteVehiculo": "OP678KL",
+    "id": 8,
+    "dniMecanico": "47832917"
+  },
+  {
+    "fecha": "2026-07-04",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "QR901MN",
+    "id": 9,
+    "dniMecanico": "32456789"
+  },
+  {
+    "fecha": "2026-07-07",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "ST234OP",
+    "id": 10,
+    "dniMecanico": "39678901"
+  },
+  {
+    "fecha": "2026-07-08",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "WX890ST",
+    "id": 11,
+    "dniMecanico": "26789012"
+  },
+  {
+    "fecha": "2026-07-09",
+    "estado": "CANCELADO",
+    "patenteVehiculo": "YZ123UV",
+    "id": 12,
+    "dniMecanico": "19345678"
+  },
+  {
+    "fecha": "2026-07-10",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "AB456WX",
+    "id": 13,
+    "dniMecanico": "47832917"
+  },
+  {
+    "fecha": "2026-07-11",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "CD789YZ",
+    "id": 14,
+    "dniMecanico": "32456789"
+  },
+  {
+    "fecha": "2026-07-14",
+    "estado": "PENDIENTE",
+    "patenteVehiculo": "AB786RG",
+    "id": 15,
+    "dniMecanico": "39678901"
+  }
+]
