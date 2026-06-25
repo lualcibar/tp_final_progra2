@@ -132,13 +132,7 @@ public class MenuAdmin {
         }
     }
 
-    /**
-     * Sub-Menu de Vehiculos con opcion de:
-     * listar vehiculos, agregar vehiculos, modificar un vehiculo o eliminar un vehiculo
-     * //@param taller
-     * @param sc
-     * (aclaracion: listado de vehiculos no tiene orden ya que hash no ordena con logica alfabetica y demas)
-     */
+
     // ---------- VEHÍCULOS ----------
     private static void menuVehiculos(SistemaTaller taller, Scanner sc) {
         System.out.println("\n-- Vehículos --");
