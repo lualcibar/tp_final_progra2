@@ -121,6 +121,9 @@ public class SistemaTaller {
         writer.close();
     }
     ///Cliente tendra baja logica (activo = false) porque quiero conservar su historial de vehiculos y reparaciones.
+    ///!!!!!!SE DEBE AGREGAR LA OPCION DE QUE EL CLIENTE YA ESTE DADO DE BAJA Y QUE TIRE EXCEPTION PERSONALIZADA!!!!
+    ///!!!!!
+    
     public void darDeBajaCliente(String dni) {
         Cliente c = clientes.get(dni);
         if (c == null) {
@@ -248,6 +251,8 @@ public class SistemaTaller {
         System.out.println("Vehículo eliminado: " + patente);
     }
 
+    ///QUE SENTIDO TIENE CAMBAIR DE VEHICULO Y NO DE PATENTE??? 
+    ///EN GRINGOLANDIA NMAS, ARG NO TIENE ESE SISTEMA CON LAS PATENTES
     /**
      * modifica el vehiculo con nueos datos pasados por parametro,
      * si no puede lanza excepcion personalizada
@@ -331,6 +336,8 @@ public class SistemaTaller {
      * //@param dni
      * //@return
      */
+    ///HACER EXCEPTION DE Q NO EXISTE 
+    ///HACER UN METODO EN INTERFAZ Q SEA DE BUSCAR, ASI REUTILIZO CODIGO
     public Empleado buscarEmpleado(String dni) {
         return empleados.get(dni); // null si no existe
     }
@@ -544,7 +551,8 @@ public class SistemaTaller {
         return turnos;
     }
 
-    /*
+    ///POR QUE ESTA COMENTADO?
+        /*
      * aprega a la lista el turno
      * //@param t
 
