@@ -13,9 +13,9 @@ import java.util.Scanner;
  * a traves de este menu el usuario puede acceder a sus datos, a sus vehiculos,
  * pedir y ver sus turnos y ver reparaciones
  */
-public class MenuUsuario {
+public interface MenuUsuario {
 
-    public static void mostrar(SistemaTaller taller, String dniUsuario) {
+     static void mostrar(SistemaTaller taller, String dniUsuario) {
         Scanner sc = new Scanner(System.in);
         int opcion = -1;
 

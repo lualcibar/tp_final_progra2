@@ -18,9 +18,9 @@ import java.util.Scanner;
  * nombreUsuario: admin
  * contrasenia: admin123
  */
-public class MenuAdmin {
+public interface MenuAdmin {
 
-    public static void mostrar(SistemaTaller taller) {
+     static void mostrar(SistemaTaller taller) {
         Scanner sc = new Scanner(System.in);
         int opcion = -1;
 
