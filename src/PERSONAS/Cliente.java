@@ -30,6 +30,7 @@ public class Cliente extends Persona {
     /*
      * Elimina el vehiculo de la lista de vehiculos del cliente, pasamos patente por parametro
     */
+    //POR QUE ESTA COMENTADO?
     //public void eliminarVehiculo(String patente) { vehiculos.remove(patente); }
 
     /// getters y setters
